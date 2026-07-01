@@ -1,1 +1,5 @@
 multicast.pdf
+.vscode
+fileserver.py
+video/**
+files/**
